@@ -1,0 +1,13 @@
+{
+  "_notice": "SAMPLE DATA FOR DEMO ONLY. These are invented records for the fictional watchlist plates created by seed.py. They are NOT VAHAN/Parivahan records. Do not add records for real vehicles seen on camera.",
+  "records": {
+    "GJ01AB1234": {"make": "Maruti Suzuki", "model": "Swift", "colour": "White", "fuel": "Petrol", "vehicle_class": "LMV (Car)", "registration_year": 2019, "insurance_valid_till": "2026-03-31", "puc_valid_till": "2026-05-14", "rc_status": "Active", "owner_name": "Sample Owner Alpha"},
+    "GJ05CD5678": {"make": "Hyundai", "model": "Creta", "colour": "Grey", "fuel": "Diesel", "vehicle_class": "LMV (Car)", "registration_year": 2021, "insurance_valid_till": "2027-01-10", "puc_valid_till": "2026-11-02", "rc_status": "Active", "owner_name": "Sample Owner Bravo"},
+    "GJ18EF9012": {"make": "Honda", "model": "Activa 6G", "colour": "Black", "fuel": "Petrol", "vehicle_class": "MCWG (Two-wheeler)", "registration_year": 2017, "insurance_valid_till": "2024-08-19", "puc_valid_till": "2024-02-01", "rc_status": "Active", "owner_name": "Sample Owner Charlie"},
+    "GJ01KL2345": {"make": "Mahindra", "model": "Scorpio-N", "colour": "Black", "fuel": "Diesel", "vehicle_class": "LMV (Car)", "registration_year": 2023, "insurance_valid_till": "2026-12-31", "puc_valid_till": "2026-10-30", "rc_status": "Active", "owner_name": "Sample Owner Delta"},
+    "GJ09MN6789": {"make": "Toyota", "model": "Innova Crysta", "colour": "Silver", "fuel": "Diesel", "vehicle_class": "LMV (Car)", "registration_year": 2020, "insurance_valid_till": "2026-07-22", "puc_valid_till": "2026-09-05", "rc_status": "Active", "owner_name": "Sample Owner Echo"},
+    "GJ27OP0123": {"make": "Tata", "model": "Ace", "colour": "White", "fuel": "CNG", "vehicle_class": "LGV (Goods)", "registration_year": 2018, "insurance_valid_till": "2026-02-28", "puc_valid_till": "2026-04-11", "rc_status": "Active", "owner_name": "Sample Owner Foxtrot"},
+    "MH12GH3456": {"make": "Tata", "model": "Nexon", "colour": "Blue", "fuel": "Petrol", "vehicle_class": "LMV (Car)", "registration_year": 2022, "insurance_valid_till": "2027-03-15", "puc_valid_till": "2026-12-01", "rc_status": "Active", "owner_name": "Sample Owner Golf"},
+    "RJ14IJ7890": {"make": "Bajaj", "model": "Pulsar 150", "colour": "Red", "fuel": "Petrol", "vehicle_class": "MCWG (Two-wheeler)", "registration_year": 2016, "insurance_valid_till": "2025-06-30", "puc_valid_till": "2025-01-20", "rc_status": "Active", "owner_name": "Sample Owner Hotel"}
+  }
+}

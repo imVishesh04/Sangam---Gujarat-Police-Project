@@ -1,0 +1,6 @@
+{
+  "name": "Gujarat CCTV Operations Platform",
+  "description": "Unified Command Center & ANPR Watchlist Dashboard for 80,000+ CCTV cameras across 26 Gujarat Government departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

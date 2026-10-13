@@ -1,0 +1,669 @@
+{
+  "timestamp": "2026-09-08T19:13:58.891060+00:00",
+  "phase1_sentinel_gateway": {
+    "num_cameras_requested": 12,
+    "num_cameras_tested": 12,
+    "duration_s": 20,
+    "teardown_duration_s": 24.11,
+    "initial_alive_workers": 12,
+    "final_statuses": {},
+    "post_teardown_threads": 25,
+    "telemetry": {
+      "avg_proc_cpu": 46.1,
+      "max_proc_cpu": 725.0,
+      "avg_sys_cpu": 7.23,
+      "max_sys_cpu": 46.8,
+      "initial_rss_mb": 97.5,
+      "final_rss_mb": 109.34,
+      "peak_rss_mb": 116.82,
+      "rss_delta_mb": 11.84,
+      "peak_threads": 36,
+      "sample_count": 45,
+      "samples": [
+        {
+          "timestamp": 46645.156,
+          "proc_cpu": 0.0,
+          "sys_cpu": 0.0,
+          "rss_mb": 97.5,
+          "threads": 23
+        },
+        {
+          "timestamp": 46646.156,
+          "proc_cpu": 725.0,
+          "sys_cpu": 46.8,
+          "rss_mb": 110.94,
+          "threads": 36
+        },
+        {
+          "timestamp": 46647.187,
+          "proc_cpu": 18.5,
+          "sys_cpu": 5.0,
+          "rss_mb": 112.64,
+          "threads": 36
+        },
+        {
+          "timestamp": 46648.187,
+          "proc_cpu": 269.1,
+          "sys_cpu": 19.9,
+          "rss_mb": 116.51,
+          "threads": 36
+        },
+        {
+          "timestamp": 46649.203,
+          "proc_cpu": 313.7,
+          "sys_cpu": 24.0,
+          "rss_mb": 116.82,
+          "threads": 36
+        },
+        {
+          "timestamp": 46650.218,
+          "proc_cpu": 110.8,
+          "sys_cpu": 14.4,
+          "rss_mb": 108.7,
+          "threads": 36
+        },
+        {
+          "timestamp": 46651.234,
+          "proc_cpu": 1.5,
+          "sys_cpu": 3.1,
+          "rss_mb": 109.13,
+          "threads": 36
+        },
+        {
+          "timestamp": 46652.234,
+          "proc_cpu": 1.6,
+          "sys_cpu": 2.9,
+          "rss_mb": 109.16,
+          "threads": 36
+        },
+        {
+          "timestamp": 46653.25,
+          "proc_cpu": 15.4,
+          "sys_cpu": 3.1,
+          "rss_mb": 109.46,
+          "threads": 36
+        },
+        {
+          "timestamp": 46654.265,
+          "proc_cpu": 1.6,
+          "sys_cpu": 8.5,
+          "rss_mb": 109.54,
+          "threads": 36
+        },
+        {
+          "timestamp": 46655.265,
+          "proc_cpu": 33.9,
+          "sys_cpu": 10.6,
+          "rss_mb": 110.57,
+          "threads": 36
+        },
+        {
+          "timestamp": 46656.281,
+          "proc_cpu": 45.3,
+          "sys_cpu": 7.2,
+          "rss_mb": 111.68,
+          "threads": 36
+        },
+        {
+          "timestamp": 46657.281,
+          "proc_cpu": 50.8,
+          "sys_cpu": 8.7,
+          "rss_mb": 112.07,
+          "threads": 36
+        },
+        {
+          "timestamp": 46658.296,
+          "proc_cpu": 18.5,
+          "sys_cpu": 6.8,
+          "rss_mb": 109.66,
+          "threads": 36
+        },
+        {
+          "timestamp": 46659.312,
+          "proc_cpu": 20.0,
+          "sys_cpu": 8.6,
+          "rss_mb": 110.29,
+          "threads": 36
+        },
+        {
+          "timestamp": 46660.312,
+          "proc_cpu": 48.4,
+          "sys_cpu": 6.4,
+          "rss_mb": 110.73,
+          "threads": 36
+        },
+        {
+          "timestamp": 46661.328,
+          "proc_cpu": 21.5,
+          "sys_cpu": 5.7,
+          "rss_mb": 110.83,
+          "threads": 36
+        },
+        {
+          "timestamp": 46662.343,
+          "proc_cpu": 53.1,
+          "sys_cpu": 7.8,
+          "rss_mb": 110.86,
+          "threads": 36
+        },
+        {
+          "timestamp": 46663.359,
+          "proc_cpu": 48.5,
+          "sys_cpu": 11.5,
+          "rss_mb": 110.86,
+          "threads": 36
+        },
+        {
+          "timestamp": 46664.359,
+          "proc_cpu": 45.3,
+          "sys_cpu": 6.6,
+          "rss_mb": 110.92,
+          "threads": 36
+        },
+        {
+          "timestamp": 46665.375,
+          "proc_cpu": 36.9,
+          "sys_cpu": 5.5,
+          "rss_mb": 111.02,
+          "threads": 36
+        },
+        {
+          "timestamp": 46666.39,
+          "proc_cpu": 47.7,
+          "sys_cpu": 7.5,
+          "rss_mb": 111.05,
+          "threads": 35
+        },
+        {
+          "timestamp": 46667.39,
+          "proc_cpu": 90.6,
+          "sys_cpu": 11.0,
+          "rss_mb": 111.95,
+          "threads": 35
+        },
+        {
+          "timestamp": 46668.406,
+          "proc_cpu": 44.6,
+          "sys_cpu": 6.6,
+          "rss_mb": 111.89,
+          "threads": 34
+        },
+        {
+          "timestamp": 46669.421,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.5,
+          "rss_mb": 109.31,
+          "threads": 33
+        },
+        {
+          "timestamp": 46670.437,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.5,
+          "rss_mb": 109.74,
+          "threads": 33
+        },
+        {
+          "timestamp": 46671.453,
+          "proc_cpu": 1.6,
+          "sys_cpu": 5.3,
+          "rss_mb": 109.68,
+          "threads": 32
+        },
+        {
+          "timestamp": 46672.468,
+          "proc_cpu": 3.1,
+          "sys_cpu": 7.4,
+          "rss_mb": 109.61,
+          "threads": 31
+        },
+        {
+          "timestamp": 46673.468,
+          "proc_cpu": 1.5,
+          "sys_cpu": 4.3,
+          "rss_mb": 109.54,
+          "threads": 30
+        },
+        {
+          "timestamp": 46674.484,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.4,
+          "rss_mb": 109.54,
+          "threads": 30
+        },
+        {
+          "timestamp": 46675.5,
+          "proc_cpu": 0.0,
+          "sys_cpu": 2.7,
+          "rss_mb": 109.54,
+          "threads": 30
+        },
+        {
+          "timestamp": 46676.515,
+          "proc_cpu": 0.0,
+          "sys_cpu": 4.9,
+          "rss_mb": 109.54,
+          "threads": 30
+        },
+        {
+          "timestamp": 46677.531,
+          "proc_cpu": 0.0,
+          "sys_cpu": 4.7,
+          "rss_mb": 109.48,
+          "threads": 29
+        },
+        {
+          "timestamp": 46678.546,
+          "proc_cpu": 0.0,
+          "sys_cpu": 5.5,
+          "rss_mb": 109.48,
+          "threads": 29
+        },
+        {
+          "timestamp": 46679.562,
+          "proc_cpu": 1.5,
+          "sys_cpu": 4.3,
+          "rss_mb": 109.48,
+          "threads": 29
+        },
+        {
+          "timestamp": 46680.578,
+          "proc_cpu": 1.5,
+          "sys_cpu": 5.5,
+          "rss_mb": 109.48,
+          "threads": 29
+        },
+        {
+          "timestamp": 46681.593,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.6,
+          "rss_mb": 109.48,
+          "threads": 29
+        },
+        {
+          "timestamp": 46682.609,
+          "proc_cpu": 1.5,
+          "sys_cpu": 2.8,
+          "rss_mb": 109.41,
+          "threads": 28
+        },
+        {
+          "timestamp": 46683.609,
+          "proc_cpu": 1.5,
+          "sys_cpu": 4.1,
+          "rss_mb": 109.41,
+          "threads": 28
+        },
+        {
+          "timestamp": 46684.625,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.9,
+          "rss_mb": 109.41,
+          "threads": 28
+        },
+        {
+          "timestamp": 46685.64,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.2,
+          "rss_mb": 109.41,
+          "threads": 28
+        },
+        {
+          "timestamp": 46686.656,
+          "proc_cpu": 0.0,
+          "sys_cpu": 4.3,
+          "rss_mb": 109.34,
+          "threads": 27
+        },
+        {
+          "timestamp": 46687.671,
+          "proc_cpu": 0.0,
+          "sys_cpu": 3.2,
+          "rss_mb": 109.34,
+          "threads": 27
+        },
+        {
+          "timestamp": 46688.687,
+          "proc_cpu": 0.0,
+          "sys_cpu": 2.5,
+          "rss_mb": 109.34,
+          "threads": 27
+        },
+        {
+          "timestamp": 46689.687,
+          "proc_cpu": 0.0,
+          "sys_cpu": 4.5,
+          "rss_mb": 109.34,
+          "threads": 27
+        }
+      ]
+    },
+    "observations": [
+      {
+        "elapsed": 1.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 3.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 5.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 7.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 9.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 11.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 13.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 15.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 17.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      },
+      {
+        "elapsed": 19.0,
+        "alive_threads": 0,
+        "offline_marked": 0,
+        "online_marked": 0
+      }
+    ]
+  },
+  "phase2_active_feeds": {
+    "num_cameras": 10,
+    "duration_s": 21.0,
+    "teardown_duration_s": 0.11,
+    "aggregate_frames": 4913,
+    "aggregate_fps": 233.95,
+    "aggregate_anpr_inferences": 2,
+    "avg_latency_ms": 14749.5,
+    "median_latency_ms": 19421.0,
+    "p95_latency_ms": 19421.0,
+    "jains_fps_fairness": 1.0,
+    "jains_anpr_fairness": 0.2,
+    "per_camera": {
+      "ACTIVE-CAM-01": {
+        "frames_read": 491,
+        "fps": 23.38,
+        "anpr_inferences": 1,
+        "avg_latency_ms": 10078.0,
+        "min_latency_ms": 10078.0,
+        "max_latency_ms": 10078.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-02": {
+        "frames_read": 493,
+        "fps": 23.48,
+        "anpr_inferences": 1,
+        "avg_latency_ms": 19421.0,
+        "min_latency_ms": 19421.0,
+        "max_latency_ms": 19421.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-03": {
+        "frames_read": 490,
+        "fps": 23.33,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-04": {
+        "frames_read": 491,
+        "fps": 23.38,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-05": {
+        "frames_read": 490,
+        "fps": 23.33,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-06": {
+        "frames_read": 490,
+        "fps": 23.33,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-07": {
+        "frames_read": 491,
+        "fps": 23.38,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-08": {
+        "frames_read": 493,
+        "fps": 23.48,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-09": {
+        "frames_read": 490,
+        "fps": 23.33,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      },
+      "ACTIVE-CAM-10": {
+        "frames_read": 494,
+        "fps": 23.52,
+        "anpr_inferences": 0,
+        "avg_latency_ms": 0.0,
+        "min_latency_ms": 0.0,
+        "max_latency_ms": 0.0,
+        "detections": 0
+      }
+    },
+    "telemetry": {
+      "avg_proc_cpu": 259.52,
+      "max_proc_cpu": 412.6,
+      "avg_sys_cpu": 21.27,
+      "max_sys_cpu": 32.1,
+      "initial_rss_mb": 1393.96,
+      "final_rss_mb": 3302.8,
+      "peak_rss_mb": 3302.8,
+      "rss_delta_mb": 1908.84,
+      "peak_threads": 206,
+      "sample_count": 21,
+      "samples": [
+        {
+          "timestamp": 46703.078,
+          "proc_cpu": 0.0,
+          "sys_cpu": 0.0,
+          "rss_mb": 1393.96,
+          "threads": 26
+        },
+        {
+          "timestamp": 46704.093,
+          "proc_cpu": 166.3,
+          "sys_cpu": 19.9,
+          "rss_mb": 2828.67,
+          "threads": 206
+        },
+        {
+          "timestamp": 46705.109,
+          "proc_cpu": 178.1,
+          "sys_cpu": 16.1,
+          "rss_mb": 3191.36,
+          "threads": 206
+        },
+        {
+          "timestamp": 46706.125,
+          "proc_cpu": 190.7,
+          "sys_cpu": 17.5,
+          "rss_mb": 2728.36,
+          "threads": 206
+        },
+        {
+          "timestamp": 46707.125,
+          "proc_cpu": 266.1,
+          "sys_cpu": 21.2,
+          "rss_mb": 2663.58,
+          "threads": 206
+        },
+        {
+          "timestamp": 46708.14,
+          "proc_cpu": 412.6,
+          "sys_cpu": 30.2,
+          "rss_mb": 2639.96,
+          "threads": 206
+        },
+        {
+          "timestamp": 46709.156,
+          "proc_cpu": 252.2,
+          "sys_cpu": 21.0,
+          "rss_mb": 2614.4,
+          "threads": 206
+        },
+        {
+          "timestamp": 46710.171,
+          "proc_cpu": 278.6,
+          "sys_cpu": 22.0,
+          "rss_mb": 2629.14,
+          "threads": 206
+        },
+        {
+          "timestamp": 46711.187,
+          "proc_cpu": 323.0,
+          "sys_cpu": 24.0,
+          "rss_mb": 2598.48,
+          "threads": 206
+        },
+        {
+          "timestamp": 46712.203,
+          "proc_cpu": 333.7,
+          "sys_cpu": 26.2,
+          "rss_mb": 2816.3,
+          "threads": 206
+        },
+        {
+          "timestamp": 46713.218,
+          "proc_cpu": 358.7,
+          "sys_cpu": 26.7,
+          "rss_mb": 3072.94,
+          "threads": 205
+        },
+        {
+          "timestamp": 46714.234,
+          "proc_cpu": 239.1,
+          "sys_cpu": 20.6,
+          "rss_mb": 3155.7,
+          "threads": 206
+        },
+        {
+          "timestamp": 46715.25,
+          "proc_cpu": 312.2,
+          "sys_cpu": 25.3,
+          "rss_mb": 2770.68,
+          "threads": 206
+        },
+        {
+          "timestamp": 46716.25,
+          "proc_cpu": 199.9,
+          "sys_cpu": 16.0,
+          "rss_mb": 2572.53,
+          "threads": 206
+        },
+        {
+          "timestamp": 46717.265,
+          "proc_cpu": 252.5,
+          "sys_cpu": 20.0,
+          "rss_mb": 2746.67,
+          "threads": 206
+        },
+        {
+          "timestamp": 46718.281,
+          "proc_cpu": 396.8,
+          "sys_cpu": 32.1,
+          "rss_mb": 2715.86,
+          "threads": 206
+        },
+        {
+          "timestamp": 46719.296,
+          "proc_cpu": 372.5,
+          "sys_cpu": 30.4,
+          "rss_mb": 2678.41,
+          "threads": 206
+        },
+        {
+          "timestamp": 46720.312,
+          "proc_cpu": 289.1,
+          "sys_cpu": 22.5,
+          "rss_mb": 2629.26,
+          "threads": 206
+        },
+        {
+          "timestamp": 46721.328,
+          "proc_cpu": 181.7,
+          "sys_cpu": 15.3,
+          "rss_mb": 2760.88,
+          "threads": 206
+        },
+        {
+          "timestamp": 46722.328,
+          "proc_cpu": 192.2,
+          "sys_cpu": 15.8,
+          "rss_mb": 3001.47,
+          "threads": 206
+        },
+        {
+          "timestamp": 46723.343,
+          "proc_cpu": 254.0,
+          "sys_cpu": 23.8,
+          "rss_mb": 3302.8,
+          "threads": 205
+        }
+      ]
+    }
+  }
+}

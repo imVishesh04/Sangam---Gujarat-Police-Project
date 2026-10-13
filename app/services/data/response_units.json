@@ -1,0 +1,33 @@
+{
+  "_note": "SAMPLE responding units for the demo. Positions are approximate area points, not real station addresses. Phone numbers are intentionally empty: dispatch messages then go to WHATSAPP_TO (the control-room demo number). Replace with the district's real unit registry (and live GPS for PCR vans) before any real use.",
+  "units": [
+    {"unit_id": "PCR-AHM-01", "name": "PCR van - SP Ring Road", "type": "pcr", "area": "Ahmedabad", "lat": 23.0400, "lon": 72.4850, "status": "available", "phone": ""},
+    {"unit_id": "PCR-AHM-02", "name": "PCR van - Ashram Road", "type": "pcr", "area": "Ahmedabad", "lat": 23.0330, "lon": 72.5700, "status": "available", "phone": ""},
+    {"unit_id": "PCR-AHM-03", "name": "PCR van - SG Highway", "type": "pcr", "area": "Ahmedabad", "lat": 23.0600, "lon": 72.5300, "status": "busy", "phone": ""},
+    {"unit_id": "PCR-AHM-04", "name": "PCR van - Chandkheda / Visat", "type": "pcr", "area": "Ahmedabad", "lat": 23.1050, "lon": 72.5850, "status": "available", "phone": ""},
+    {"unit_id": "PCR-GNR-01", "name": "PCR van - Gandhinagar / Adalaj", "type": "pcr", "area": "Gandhinagar", "lat": 23.1900, "lon": 72.6100, "status": "available", "phone": ""},
+    {"unit_id": "PCR-JND-01", "name": "PCR van - Junagadh city", "type": "pcr", "area": "Junagadh", "lat": 21.5250, "lon": 70.4600, "status": "available", "phone": ""},
+    {"unit_id": "PCR-RJK-01", "name": "PCR van - Rajkot Ring Road", "type": "pcr", "area": "Rajkot", "lat": 22.2900, "lon": 70.7800, "status": "available", "phone": ""},
+    {"unit_id": "PCR-NVS-01", "name": "PCR van - Navsari-Bilimora highway", "type": "pcr", "area": "Navsari", "lat": 20.8500, "lon": 72.9600, "status": "available", "phone": ""},
+    {"unit_id": "PCR-KUT-01", "name": "PCR van - Gandhidham", "type": "pcr", "area": "Kutch", "lat": 23.0750, "lon": 70.1300, "status": "available", "phone": ""},
+    {"unit_id": "PCR-PTN-01", "name": "PCR van - Patan / Mehsana road", "type": "pcr", "area": "Patan", "lat": 23.7500, "lon": 72.2000, "status": "available", "phone": ""},
+    {"unit_id": "QRT-AHM", "name": "Quick Response Team - Ahmedabad City", "type": "qrt", "area": "Ahmedabad", "lat": 23.0300, "lon": 72.5800, "status": "available", "phone": ""},
+    {"unit_id": "QRT-SAU", "name": "Quick Response Team - Saurashtra", "type": "qrt", "area": "Rajkot", "lat": 22.3000, "lon": 70.8000, "status": "available", "phone": ""},
+    {"unit_id": "TRF-AHM-PALDI", "name": "Traffic Police point - Paldi", "type": "traffic", "area": "Ahmedabad", "lat": 23.0150, "lon": 72.5600, "status": "available", "phone": ""},
+    {"unit_id": "TRF-AHM-VISAT", "name": "Traffic Police point - Visat circle", "type": "traffic", "area": "Ahmedabad", "lat": 23.1030, "lon": 72.5900, "status": "available", "phone": ""},
+    {"unit_id": "TRF-JND", "name": "Traffic Police point - Junagadh", "type": "traffic", "area": "Junagadh", "lat": 21.5200, "lon": 70.4550, "status": "available", "phone": ""},
+    {"unit_id": "TRF-RJK", "name": "Traffic Police point - Rajkot", "type": "traffic", "area": "Rajkot", "lat": 22.3040, "lon": 70.8020, "status": "available", "phone": ""},
+    {"unit_id": "PS-AHM-WEST", "name": "Police Station - Paldi / Ellisbridge area", "type": "station", "area": "Ahmedabad", "lat": 23.0200, "lon": 72.5650, "status": "available", "phone": ""},
+    {"unit_id": "PS-AHM-NORTH", "name": "Police Station - Chandkheda area", "type": "station", "area": "Ahmedabad", "lat": 23.1100, "lon": 72.5800, "status": "available", "phone": ""},
+    {"unit_id": "PS-AHM-CENTRAL", "name": "Police Station - Navrangpura area", "type": "station", "area": "Ahmedabad", "lat": 23.0370, "lon": 72.5600, "status": "available", "phone": ""},
+    {"unit_id": "PS-GNR", "name": "Police Station - Gandhinagar / Adalaj area", "type": "station", "area": "Gandhinagar", "lat": 23.1700, "lon": 72.5850, "status": "available", "phone": ""},
+    {"unit_id": "PS-DEHGAM", "name": "Police Station - Dehgam area", "type": "station", "area": "Gandhinagar", "lat": 23.1700, "lon": 72.8200, "status": "available", "phone": ""},
+    {"unit_id": "PS-JND", "name": "Police Station - Junagadh city area", "type": "station", "area": "Junagadh", "lat": 21.5200, "lon": 70.4650, "status": "available", "phone": ""},
+    {"unit_id": "PS-VERAVAL", "name": "Police Station - Veraval area", "type": "station", "area": "Gir Somnath", "lat": 20.9100, "lon": 70.3650, "status": "available", "phone": ""},
+    {"unit_id": "PS-RJK", "name": "Police Station - Rajkot city area", "type": "station", "area": "Rajkot", "lat": 22.3000, "lon": 70.7950, "status": "available", "phone": ""},
+    {"unit_id": "PS-NAVSARI", "name": "Police Station - Bilimora / Gandevi area", "type": "station", "area": "Navsari", "lat": 20.7800, "lon": 72.9700, "status": "available", "phone": ""},
+    {"unit_id": "PS-PATAN", "name": "Police Station - Patan area", "type": "station", "area": "Patan", "lat": 23.8500, "lon": 72.1250, "status": "available", "phone": ""},
+    {"unit_id": "PS-MEHSANA", "name": "Police Station - Mehsana area", "type": "station", "area": "Mehsana", "lat": 23.5900, "lon": 72.3700, "status": "available", "phone": ""},
+    {"unit_id": "PS-GANDHIDHAM", "name": "Police Station - Gandhidham area", "type": "station", "area": "Kutch", "lat": 23.0800, "lon": 70.1350, "status": "available", "phone": ""}
+  ]
+}

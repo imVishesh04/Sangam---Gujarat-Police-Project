@@ -1,0 +1,44 @@
+# Environment variables
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Media & Demo Outputs
+debug_frames/
+demo_output/
+survey_output/
+survey_backups/
+test_videos/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Databases & backups (contain password hashes, audit logs)
+*.db
+*.db-wal
+*.db-shm
+*.db.bak-*
+*.sqlite3
+instance/
+
+# WhatsApp bridge session (logged-in WhatsApp!) and packages
+wa_bridge/.wa_session/
+wa_bridge/.wwebjs_cache/
+wa_bridge/node_modules/
+
+# Local scratch
+survey_report.csv
+noc_system_health.png
